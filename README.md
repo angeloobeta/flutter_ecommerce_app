@@ -81,7 +81,7 @@ lib/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/[your-username]/flutter_ecommerce_app.git
+   git clone https://github.com/angeloobeta/flutter_ecommerce_app.git
    cd flutter_ecommerce_app
    ```
 2. **Install dependencies:**
@@ -126,6 +126,12 @@ lib/
 </div>
 ### **App Flow Overview**
 
+
+### **App Flow Overview**
+
+### **App Flow Overview**
+
+### **App Flow Overview**
 
 ### **App Flow Overview**
 
@@ -430,32 +436,6 @@ flutter build web --release
 * Add tests for new features
 * Update documentation as needed
 * Ensure all tests pass before submitting
-
-## 🛣️ **Roadmap & Future Enhancements**
-
-### **Phase 1: Core Enhancements**
-
-* [ ] User authentication & profiles
-* [ ] Product search & filtering
-* [ ] Favorites/Wishlist functionality
-* [ ] Product categories
-* [ ] Product reviews & ratings
-
-### **Phase 2: Advanced Features**
-
-* [ ] Backend API integration
-* [ ] Payment processing
-* [ ] Order tracking
-* [ ] Push notifications
-* [ ] Offline mode support
-
-### **Phase 3: Business Features**
-
-* [ ] Admin panel
-* [ ] Analytics dashboard
-* [ ] Inventory management
-* [ ] Multi-vendor support
-* [ ] Internationalization
 
 ## 📄 **License**
 
