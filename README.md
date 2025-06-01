@@ -124,14 +124,9 @@ lib/
 *Smooth product image transitions between screens*
 
 </div>
-### **App Flow Overview**
+### **App Flow Overview
 
 
-### **App Flow Overview**
-
-### **App Flow Overview**
-
-### **App Flow Overview**
 
 ### **App Flow Overview**
 
@@ -281,7 +276,7 @@ To add your app screenshots to the README:
    * `screenshots/product_detail.png` - Product detail view
    * `screenshots/cart_screen.png` - Shopping cart screen
    * `screenshots/toast_notification.png` - Toast notification example
-   * `screenshots/hero_animation.gif` - Hero animation demo (optional)
+   * `screenshots/hero_animation.png` - Hero animation demo (optional)
 3. **Recommended screenshot specifications:**
    * **Format** : PNG for static images, GIF for animations
    * **Size** : 750x1334 (iPhone) or 1080x1920 (Android)
